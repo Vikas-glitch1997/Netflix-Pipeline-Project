@@ -13,17 +13,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>NETFLIX SIGN IN V-11.1</h2>
+      <h2>WEBHOOK SIGN IN V-11.1</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>WEBWOOK or POLLSCM</label>
+          <label>WEBWOOK or WEBHOOK</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WEBHOOK AND POLLSCM V-6.0</button>
+        <button type="submit">WEBHOOK AND WEBHOOK V-6.0</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
