@@ -17,13 +17,13 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Email or Mobile number</label>
+          <label>WEBWOOK or POLLSCM</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WEBHOOK TO NETFLIX V-6.0</button>
+        <button type="submit">WEBHOOK AND POLLSCM V-6.0</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
