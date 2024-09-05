@@ -13,17 +13,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>WEBHOOK SIGN IN V-11.1</h2>
+      <h2>POLLSCM SIGN IN V-11.1</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>WEBWOOK or WEBHOOK</label>
+          <label>POLLSCM or POLLSCM</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">WEBHOOK AND WEBHOOK V-6.0</button>
+        <button type="submit">POLLSCM AND POLLSCM V-6.0</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
