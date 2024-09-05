@@ -13,17 +13,17 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2>POLLSCM SIGN IN V-11.1</h2>
+      <h2>SAKSHI DIYA SIGN IN V-11.1</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>POLLSCM or POLLSCM</label>
+          <label>SAKSHI or DIYA</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">POLLSCM AND POLLSCM V-6.0</button>
+        <button type="submit">SAKSHI AND DIYA V-6.0</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
